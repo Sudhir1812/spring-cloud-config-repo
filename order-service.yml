@@ -2,4 +2,4 @@ server:
   port: 8086
 
 custom:
-  message: "Hello from Order-Service config in GitHub"
+  message: "Hello from Order-Service config in GitHub - Test changes"
