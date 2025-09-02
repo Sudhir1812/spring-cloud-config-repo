@@ -6,4 +6,4 @@ server:
   port: 8085
 
 custom:
-  message: "Hello from GitHub Config - Test Change!"
+  message: "Hello from GitHub Config - Test Change - Once again Test change!"
