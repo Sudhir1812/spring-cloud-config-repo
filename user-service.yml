@@ -1,9 +1,6 @@
-spring:
-  application:
-    name: user-service
-
 server:
   port: 8085
 
 custom:
-  message: "Hello from GitHub Config - Test Change - Once again Test change -One more time!"
+  message: "Hello from User-Service config in GitHub"
+
