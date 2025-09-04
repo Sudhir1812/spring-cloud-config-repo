@@ -1,5 +1,5 @@
 server:
-  port: 8086
+  port: 8082
 
-custom:
-  message: "Hello from Order-Service config in GitHub - Test changes - Once "
+message: "Hello from Order Service Config"
+
