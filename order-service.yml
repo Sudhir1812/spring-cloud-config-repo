@@ -1,5 +1,5 @@
 server:
   port: 8082
 
-message: "Hello from Order Service Config - Test Change - Test Once - Once More - Hello -Hii"
+message: "Hello from Order Service Config - Test Change - Test Once - Once More - Hello -Hii -- G"
 
