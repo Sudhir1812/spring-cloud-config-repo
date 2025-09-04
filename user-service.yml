@@ -1,6 +1,6 @@
 server:
-  port: 8085
+  port: 8081
 
-custom:
-  message: "Hello from User-Service config in GitHub - Test Change"
+message: "Hello from User Service Config"
+
 
