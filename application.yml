@@ -1,3 +1,2 @@
-custom:
-  global-message: "This is a global config available to all services - Test Change"
+message: "Hello from Global Config"
 
