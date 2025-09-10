@@ -1,5 +1,5 @@
 server:
-  port: 8083
+  port: 8081
 
 message: "Hello from User Service Config - Test Change - Test Once - Once More - Hello"
 
